@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "TT6yOrUEkhqAeVemaiRSJko43llZqaQp4Czxd6dsRa+3Uy2ETLeBosW4bEg2+VjFO4vvxax8jG3/h8TL/ogu/A==",
+  "success": false,
+  "projectFilePath": "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "No se puede resolver 'Swashbuckle.AspNetCore (>= 6.2.3)' para 'net6.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
