@@ -26,7 +26,7 @@ public class NotificacionesController : ControllerBase
         var response = await client.SendEmailAsync(msg);
         if (response.StatusCode == System.Net.HttpStatusCode.Accepted)
         {
-            return Ok("Correo enviado a la direccion" + datos.correoDestino);
+            return Ok("Correo enviado a la dirección" + datos.correoDestino);
         }
         else
         {
