@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hU4OPb7UPMlrVEPHrqtYbzc6s/E9TB+obQUJtptMhjep8kblS9DmAHMiwnY/D+qyYHnnwYShBcHoHSURs8p91A==",
+  "dgSpecHash": "Yv7XpqyKxxvsWyBgpedbQIS4/uaSUwnGPSzmZ1p3t+fEGPgCB3s4tzfVgjensJwAfA01vW74PRSe2VsQ3nWA0A==",
   "success": true,
-  "projectFilePath": "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj",
+  "projectFilePath": "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\ms-notificaciones.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gsus\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\gsus\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj": {}
+    "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\ms-notificaciones.csproj": {}
   },
   "projects": {
-    "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj": {
+    "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\ms-notificaciones.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj",
+        "projectUniqueName": "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\ms-notificaciones.csproj",
         "projectName": "ms-notificaciones",
-        "projectPath": "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\ms-notificaciones.csproj",
+        "projectPath": "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\ms-notificaciones.csproj",
         "packagesPath": "C:\\Users\\gsus\\.nuget\\packages\\",
-        "outputPath": "D:\\prog III\\proyecto-ventas\\backend\\ms-notificaciones\\obj\\",
+        "outputPath": "D:\\prog III\\proyecto-ventas\\backend\\otros\\ms-notificaciones\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gsus\\AppData\\Roaming\\NuGet\\NuGet.Config"
